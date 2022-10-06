@@ -2555,4 +2555,5 @@
 - [Tanisha Kant](https://github.com/tanishakant07)
 - [Vishesh Tiwari](https://github.com/vishesh-hue)
 - [Anubhav Gaur](https://github.com/anubhavgaur8)
+- [Bhawin Ameta](https://github.com/bhawinameta)
 <!-- prettier-ignore-end -->
